@@ -15,58 +15,42 @@
 </div>
 
 ---
-
 # 💫 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 🎓 Recent Bachelor of Computer Applications (BCA) Graduate
 
-💻 Passionate Full Stack Developer specializing in MERN Stack
+💻 Passionate Full Stack Developer specializing in the MERN Stack
 
-🚀 I enjoy building scalable web applications with clean architecture
+🚀 I enjoy building scalable web applications with clean architecture.
 
-🌱 Currently improving my skills in
-
+🌱 **Currently Learning**
 - Advanced React
 - Node.js
 - System Design
 - Data Structures & Algorithms
 
-🎯 Career Goal
+🎯 **Career Goal**
 
 Become a Software Engineer building impactful products used by millions.
 
----
+</td>
 
-# 🚀 Tech Stack
+<td width="40%" align="center">
 
-## Languages
+<img src="/Night-Coding.gif" width="320"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,java,cpp,c"/>
-</p>
+</td>
+</tr>
+</table>
 
-## Frontend
+# 💻 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind"/>
-</p>
-
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-## Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-</p>
-
-## Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,java,cpp,c,react,html,css,bootstrap,tailwind,nodejs,express,mongodb,mysql,firebase,git,github,vscode,postman&perline=9" />
 </p>
 
 ---
@@ -96,16 +80,14 @@ https://lms-1-4s02.onrender.com
 ## Serene Match
 Matrimonial Platform
 
-🔗 Live Demo
-![https://serene.lovestoblog.com/]
+🔗 Live Demo: https://serene.lovestoblog.com/
 
 ---
 ## 🏡 Nestify
 
 Flat Rental & Booking Management Platform
 
-🔗 Live Demo
-![https://nestify-w45b.onrender.com/]
+🔗 Live Demo: https://nestify-w45b.onrender.com/
 
 ### Features
 
@@ -167,13 +149,9 @@ Flat Rental & Booking Management Platform
 
 </p>
 
-Portfolio
+Portfolio-- https://soyam.onrender.com
 
-https://soyam.onrender.com
-
-Email
-
-soyamkayasth411@gmail.com
+Email-- soyamkayasth411@gmail.com
 
 ---
 
