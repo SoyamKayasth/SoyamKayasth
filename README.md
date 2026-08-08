@@ -28,10 +28,13 @@
 🚀 I enjoy building scalable web applications with clean architecture.
 
 🌱 **Currently Learning**
-- Advanced React
-- Node.js
+- Advanced React Patterns
 - System Design
-- Data Structures & Algorithms
+- Backend Architecture
+- Advanced Data Structures & Algorithms
+- TypeScript
+- Next.js
+- Docker
 
 🎯 **Career Goal**
 
@@ -121,17 +124,6 @@ Flat Rental & Booking Management Platform
 💯 Solved 100+ DSA Problems
 
 🚀 Built multiple Full Stack MERN Applications
-
----
-
-# 📚 Currently Learning
-
-- Advanced React Patterns
-- Backend Architecture
-- System Design
-- Docker
-- TypeScript
-- Next.js
 
 ---
 
