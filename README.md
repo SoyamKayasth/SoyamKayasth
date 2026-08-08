@@ -135,26 +135,6 @@ Flat Rental & Booking Management Platform
 
 ---
 
-# 🤝 Connect With Me
-
-<p>
-
-<a href="https://linkedin.com/in/soyam-kayasth">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/SoyamKayasth">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
-
-Portfolio-- https://soyam.onrender.com
-
-Email-- soyamkayasth411@gmail.com
-
----
-
 <div align="center">
 
 ### ⭐ "Code. Learn. Build. Repeat."
