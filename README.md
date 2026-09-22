@@ -81,10 +81,16 @@ https://lms-1-4s02.onrender.com
 
 ---
 ## Serene Match
-Matrimonial Platform
+A Matrimonial & Matchmaking Platform
 
 🔗 Live Demo: https://serene.lovestoblog.com/
 
+- I developed a responsive matrimonial web application that enables users to create profiles,
+ discover potential matches, and manage their matchmaking preferences.
+- Implemented user registration, profile management, matchmaking/search functionality, and profile-based information management.
+- Designed an intuitive and responsive user interface focused on simple navigation and an improved user experience.
+- Implemented form validation and basic security practices for handling user-provided information.
+- Deployed the application online and configured it for public access.
 ---
 ## 🏡 Nestify
 
